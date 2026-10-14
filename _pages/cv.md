@@ -26,20 +26,22 @@ CGPA: 4.20/5.00 | Second Class Upper Division
 **Final-Year Research Project — LAUTECH**  
 *March 2026 – Present*
 
-*AI-Powered IoT Smart Waste Classification and Automated Sorting System*
+Project: *Development of an Artificial Intelligence Powered Internet of Things for a Smart Waste Segregation Sysytem*
+Supervisor: Dr F. K Ojo
 
-- Developed a computer-vision-based waste detection and sorting system integrating YOLOv8n with embedded control hardware.
-- Worked with a dataset of approximately 5,400 images across four waste categories: bottles, cans, nylon, and organic waste.
-- Applied data augmentation to improve detection under varying lighting conditions.
-- Integrated Arduino-based control and servo actuation to support automated waste sorting.
+- Designed an end-to-end computer vision pipeline utilizing YOLOv8 and OpenCV to enable waste classification and sorting real time.
+- Built and labelled a custom dataset on Roboflow with1,400 images and trained a YOLOv8 object detection model, achieving approximately 0.89 mAP@50 and 0.78 mAP@50–95.
+- Overcame limited GPU resources by moving model training to Kaggle, reducing training time by approximately 2× faster and then integrated the trained model with an ESP32 controlled servo mechanism and demonstrated real time waste detection and physical sorting.
 
-**RENEU 2026 Research Internship — Achinivu Lab**  
+**Summer Undergraduate Researcher, University Of Chicago, United States of America**  
 *July – September 2026*
 
-- Conducted remote computational research on ionic-liquid–metal-organic-framework systems for the extraction of critical elements, including neodymium and dysprosium.
-- Worked with molecular simulation workflows using Linux, Python-based tools, Packmol, LAMMPS, and OVITO.
-- Adapted to a computational chemistry research environment outside my primary engineering specialization.
-- Received a High Distinction.
+Project: *A Molecular Study On Programmable Protic Ionic Liquids Metal Organic Framework (PILMOF) Moieties For Critical Elements Extraction*
+Supervisor: Prof. Ezinne C Achinivu, Dr Alex Accquah | Remote Research Placement
+
+- Investigated molecular behaviour of protic ionic liquids under varied conditions relevant to critical mineral extraction, building and running MD simulations across pure, water-containing, and Nd³⁺-doped systems in LAMMPS.
+- Rapidly mastered linux - based computational workflos(LAMMPS, OVITO) within 9 weeks demonstrating strong adaptability to unfamiliar scientific domains
+- Presented research findings on molecular behaviour and extraction effieciency in a formal academic presentation,highlighting key insights into ionic liquid stability
 
 
 ## Selected Projects
