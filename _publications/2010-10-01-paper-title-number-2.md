@@ -1,16 +1,17 @@
 
 ---
-title: "An AI-Powered IoT-Based Cattle Intrusion Detection and Prevention System to Mitigate Conflict between Herders and Farmers in Africa"
+title: "An IoT Enabled Deep Learning Framework for Real Time Multi-Class Waste Detection and Automated Sorting"
 collection: publications
-category: manuscripts
-permalink: /publication/2025-cattle-intrusion
-excerpt: 'An AI-powered IoT system for cattle intrusion detection, early warning alerts, and farmland protection.'
-date: 2025-10-29
-venue: 'Available at SSRN'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5683383'
-citation: 'Saka, A., Olusanya, S., Komolafe, T., Owoeye, E., Babalola, J., & Ojoawo, R. (2025). &quot;An AI-Powered IoT-Based Cattle Intrusion Detection and Prevention System to Mitigate Conflict between Herders and Farmers in Africa.&quot; Available at SSRN 5683383.'
+category: conferences
+permalink: /publication/2026-wiml-neurips-sortify
+excerpt: 'An IoT-enabled deep learning framework combining real-time waste detection with automated sorting.'
+date: 2026-12-01
+venue: 'Women in Machine Learning (WiML) Workshop at NeurIPS 2026'
+citation: 'Accepted poster, Women in Machine Learning (WiML) Workshop at NeurIPS 2026.'
 ---
 
-This study presents an AI-powered IoT system for detecting cattle intrusion into farmland and helping farmers respond to potential crop damage. The system integrates YOLOv8n-based cattle detection with an audible deterrent, SMS alerts, and image uploads to a web application for monitoring and verification.
+This work presents an IoT-enabled deep learning framework for real-time, multi-class waste detection and automated sorting. The system combines YOLOv8-based computer vision with embedded control hardware to identify and sort different categories of waste.
 
-Field evaluation on a maize farm in Ogbomoso, Nigeria, achieved 89% detection accuracy. The work explores how AI and IoT can support farmland protection and help mitigate conflict between farmers and herders.
+The project explores the integration of AI-based visual recognition and physical actuation to support automated waste segregation.
+
+**Status:** Accepted for poster presentation at the Women in Machine Learning (WiML) Workshop at NeurIPS 2026.
