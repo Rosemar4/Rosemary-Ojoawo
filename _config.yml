@@ -9,21 +9,21 @@ site_theme               : "air"
 title                    : "Rosemary Ojoawo"
 title_separator          : "-"
 name                     : &name "Rosemary Ojoawo"
-description              : &description "Engineering student exploring computer vision, artificial intelligence, and robotics."
+description              : &description "Engineering student exploring computer vision and robotics."
 url                      : "https://Rosemar4.github.io"
 baseurl                  : ""
 repository               : "Rosemar4/Rosemar4.github.io"
 
 # Site Author
 author:
-  avatar           : ""
+  avatar           : "1002267940.jpg"
   name             : "Rosemary Ojoawo"
   pronouns         : "she/her"
   bio              : "Undergrad @ LAUTECH | Interested in computer vision and robotics."
   location         : "Nigeria"
   employer         : "Ladoke Akintola University of Technology (LAUTECH)"
   uri              :
-  email            : "YOUR_EMAIL_ADDRESS"
+  email            : "ojoawo"
 
   # Academic websites
   academia         :
