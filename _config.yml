@@ -18,10 +18,10 @@ repository               : "Rosemar4/Rosemar4.github.io"
 author:
   avatar           : "1002267940.jpg"
   name             : "Rosemary Ojoawo"
-  pronouns         : "she/her"
+  pronouns         : #"she/her"
   bio              : "Undergrad @ LAUTECH | Interested in computer vision and robotics."
   location         : "Nigeria"
-  employer         : "Ladoke Akintola University of Technology (LAUTECH)"
+  employer         : "Ladoke Akintola University of Technology (LAUTECH), Nigeria"
   uri              :
   email            : "ojoaworosemary@gmail.com"
 
