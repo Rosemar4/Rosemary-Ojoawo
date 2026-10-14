@@ -44,7 +44,7 @@ Supervisor: Prof. Ezinne C Achinivu, Dr Alex Accquah | Remote Research Placement
 - Presented research findings on molecular behaviour and extraction effieciency in a formal academic presentation,highlighting key insights into ionic liquid stability
 
 
-## Selected Projects
+## Projects
 
 **Autonomous Agricultural Robot Simulation**
 - Explored autonomous navigation in a simulated agricultural environment using ROS 2, Gazebo, LiDAR, and Nav2.
@@ -85,15 +85,15 @@ Supervisor: Prof. Ezinne C Achinivu, Dr Alex Accquah | Remote Research Placement
 
 ## Awards and Recognition
 
--1st place Winner, 234 AI Hackathon Games 2024, University of Ibadan, Oyo State with ₦200,000 prize. 
--1st place Winner, Hack4Livestock Agro-Alliance Challenge, Nigeria with ₦5,000,000 team prize with invitation to
+- 1st place Winner, 234 AI Hackathon Games 2024, University of Ibadan, Oyo State with ₦200,000 prize. 
+- 1st place Winner, Hack4Livestock Agro-Alliance Challenge, Nigeria with ₦5,000,000 team prize with invitation to
 exhibit in Florida
--1st Runner-Up, UNILAG Energy Challenge 2024, University of Lagos, Lagos State ₦1,500,000 team prize. 
--1st Runner-Up, OORC Innovation/Entrepreneurship Competition Ogbomoso, Nigeria with ₦500,000 team prize.I
+- 1st Runner-Up, UNILAG Energy Challenge 2024, University of Lagos, Lagos State ₦1,500,000 team prize. 
+- 1st Runner-Up, OORC Innovation/Entrepreneurship Competition Ogbomoso, Nigeria with ₦500,000 team prize.I
 led team Cyfe
--1st Runner-Up, Nigerian Genius 2025, Clintonel Innovation Centre, Nigeria represented LAUTECH as part of the
+- 1st Runner-Up, Nigerian Genius 2025, Clintonel Innovation Centre, Nigeria represented LAUTECH as part of the
 competition team. 
--Top 15 in Africa, Newton AI/STEM Club Innovation Competition participated as a member of Team Newton AI
+- Top 15 in Africa, Newton AI/STEM Club Innovation Competition participated as a member of Team Newton AI
 STEM Club and subsequently participated in programme activities at the University of Lagos.
 
 ## Technical Skills
