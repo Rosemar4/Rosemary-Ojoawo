@@ -1,14 +1,18 @@
+
 ---
-title: "Paper Title Number 1"
+title: "An AI-Powered IoT-Based Cattle Intrusion Detection and Prevention System to Mitigate Conflict between Herders and Farmers in Africa"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-cattle-intrusion
+date: 2025-10-29
+venue: "Available at SSRN"
+excerpt: "An AI-powered IoT system combining cattle detection, SMS alerts, and environmental deterrence to protect farmland."
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5683383"
+citation: "Saka, A., Olusanya, S., Komolafe, T., Owoeye, E., Babalola, J., & Ojoawo, R. (2025). An AI-Powered IoT-Based Cattle Intrusion Detection and Prevention System to Mitigate Conflict between Herders and Farmers in Africa. Available at SSRN 5683383."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This study presents an AI-powered IoT system for detecting cattle intrusion into farmland and helping farmers respond to potential crop damage. The system integrates YOLOv8n-based cattle detection with a siren, GSM-based SMS alerts, and image uploads to a web application for monitoring and verification.
+
+Field evaluation on a maize farm in Ogbomoso, Nigeria, achieved 89% detection accuracy. The work explores how AI and IoT can support farmland protection and help mitigate conflict between farmers and herders.
+
+**Publication:** [Read the paper on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5683383).
